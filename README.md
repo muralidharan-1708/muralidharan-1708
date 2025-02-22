@@ -1,16 +1,23 @@
 <h1 align="center">Hi 👋, I'm Muralidharan S</h1>
 
 ## 🏆 About Me:
-<hr style="border: none; height: 2px; background-color: #FFD700; margin-bottom: 20px;">
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-Aspiring **Data Science professional** skilled in **Python, C++, Java,** and **AI technologies**, with strong problem-solving abilities in **Data Structures and Algorithms (DSA)**. Passionate about **solving real-world challenges** through innovative solutions and eager to contribute to dynamic projects in a collaborative, technology-driven environment.
-
-- 👨‍💻 **Explore my projects:** [Portfolio](https://muralidharan-1708.github.io/muralidharan/)  
-- 📫 **Reach me at:** [muralidharan1708@gmail.com](mailto:muralidharan1708@gmail.com)  
-- 🌱 **Currently learning:** **AI, ML, and Deep Learning**  
-- 💡 **Interested in:** **AI-driven automation, NLP, and Computer Vision**  
+<table>
+  <tr>
+    <td width="60%">
+      <p>Aspiring <b>Data Science professional</b> skilled in <b>Python, C++, Java</b>, and <b>AI technologies</b>, with strong problem-solving abilities in <b>Data Structures and Algorithms (DSA)</b>. Passionate about <b>solving real-world challenges</b> through innovative solutions and eager to contribute to dynamic projects in a collaborative, technology-driven environment.</p>
+      <ul>
+        <li>👨‍💻 <b>Explore my projects:</b> <a href="https://muralidharan-1708.github.io/muralidharan/">Portfolio</a></li>
+        <li>📫 <b>Reach me at:</b> <a href="mailto:muralidharan1708@gmail.com">muralidharan1708@gmail.com</a></li>
+        <li>🌱 <b>Currently learning:</b> AI, ML, and Deep Learning</li>
+        <li>💡 <b>Interested in:</b> AI-driven automation, NLP, and Computer Vision</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300px">
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Connect with Me:
